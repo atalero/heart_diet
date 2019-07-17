@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+ <html lang="en" class="no-js"><!--<![endif]-->
+ 
+    <head>
+     <meta name="description" content="United States Department of Agriculture Food Composition Databases">
+      <meta name="MobileOptimized" content="width">
+    <meta name="HandheldFriendly" content="true">
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>USDA Food Composition Databases</title>
+        <link rel="shortcut icon" href="/ndb/assets/favicon-586b9f862ff9b9e158afa1e50eb9a8e3.ico" type="image/vnd.microsoft.icon" />
+    <script src="/ndb/assets/application-be3f7a9c00527159ebeff298ffd6ffc8.js" type="text/javascript" ></script>
+<link rel="stylesheet" href="/ndb/assets/main-2558742e2f3d5c57cdc2bc6f3d20e080.css"/>
+        
+		
+ 
+    <script async type="text/javascript" id="_fed_an_ua_tag" src=" https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=USDA&subagency=ARS-NAL"></script>
+ <!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-36442725-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+ 
+  gtag('config', 'UA-36442725-1');
+</script>
+      
+          
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="layout" content="main"/>
+
+    </head>
+<body>
+
+<div class="header-wrapper clearfix">
+			<div class="header-content header-background">
+                <div class="site-info col-sm-12 col-xs-12">
+                <a href="http://www.usda.gov/" target="_blank" id="anch_0">
+                <img src="/ndb/assets/USDA-Logo-dda9ff0850b624759c06dd21914b0f67.jpg" style="float:left;padding:5px;" height="51" width="64" title="USDA Logo"/>
+                </a>
+                <span class="sitename-usda">United States Department of Agriculture
+                <br>Agricultural Research Service</span>
+                <br><span class="sitename-nal"> 
+               
+                	USDA Food Composition Databases
+                
+                 </span>
+                 </div>
+            </div>
+	</div>
+<div class="bodywrapper">
+
+ <div class="navbar navbar-default" role="navigation">
+<div class="container-fluid"> 
+<div class="navbar-header" >
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+<div class="navbar-collapse collapse navbar-responsive-collapse" >
+<ul  class="nav navbar-nav" >
+   
+       <li class="first leaf" role="presentation">
+   
+    <a href="/ndb" title="Go the NDL home page">Home</a>
+  </li>
+  
+  <li role="presentation">
+  
+  		<a href="/ndb/search/list" name="menu-advanced" title="Browse the foods list">Food Search</a>
+  	</li>
+  	
+  		<li role="presentation">
+  	
+  		<a href="/ndb/nutrients/index" name="menu-advanced" title="Create a nutrients list report">Nutrient Search</a>
+  	</li>
+  	
+  		<li role="presentation">
+  	
+  	
+  		<a href="/ndb/beef/show" title="Use the ground beef calculator">Ground Beef Calculator</a>
+  	</li>
+	  <li class="dropdown"><a href="#" class="dropdown-toggle"  data-target="#" data-toggle="dropdown" target="_blank" role="button" aria-haspopup="true" title="Select Documentation and Help Items" aria-expanded="false">Documentation and Help<span class="caret"></span></a>
+		<ul class="dropdown-menu">
+  	 	<li  class="first leaf" >
+    	<a href="/ndb/doc/index" title="How to use the NDB API">Food Composition Databases API</a>
+    	</li>
+  
+    <li  class="leaf" >
+    	<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Legacy_Doc.pdf" title="View and download release documentation" target="_help">SR1 Documentation</a>
+    </li>
+    <li>
+    	<a href="/ndb/docs/BFPDB_Doc.pdf" title="View and download branded food products documentation" target="_help">USDA Branded Food Products Documentation</a>
+    </li>
+    
+  <li class="first leaf" >
+    	<a href="/ndb/help/index" title="Read help on how to use the website">Food Composition Databases Help</a>
+    </li>
+    </ul>
+    </li>
+       <li class="dropdown"><a href="#" class="dropdown-toggle" data-target="#" data-toggle="dropdown" target="_blank" role="button" aria-haspopup="true" title="Select Downloadable Files" aria-expanded="false">Downloads<span class="caret"></span></a>
+	<ul class="dropdown-menu">
+		<li >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/BFPDB/BFPD_db_07132018.zip" title="Download BFPD Access Files" tabindex="-1">BFPD Access Database Files</a>
+		</li>
+		<li >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/BFPDB/BFPD_csv_07132018.zip" title="CSV Files">BFPD ASCII Files</a>
+		</li>
+	</li>
+	
+  	 <li  class="leaf" >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Leg_DB.zip" title="Download SR Legacy Access Files">SR Legacy Access Database Files</a>
+    	</li>
+	<li  class="leaf" >
+		<a href="https://www.ars.usda.gov/ARSUserFiles/80400525/Data/SR-Legacy/SR-Leg_ASC.zip" title="Download SR CSV Files">SR Legacy ASCII Files</a>
+    	</li>
+	 </ul>
+		
+       
+    </li>
+     	<li>
+  		<a href="http://www.ars.usda.gov/main/docs.htm?docid=4445" title="Click to contact us">Contact Us</a>
+  	</li>
+       
+</ul>
+</div>
+</div>
+</div>
+
+   
+      
+        
+<div class="container" style="width:90%;;padding:0px;">
+    
+	
+<div style="border:solid #0071bc;padding:12px;">Visit <a href="https://fdc.nal.usda.gov" style="text-decoration:underline">FoodData Central</a> to access USDA’s new Food and Nutrient Data System. All of these datasets—including the Food and Nutrient Database for Dietary Studies (FNDDS), SR Legacy, and the USDA Branded Food Products Database—have been transitioned to FoodData Central which also includes expanded nutrient content information never before available as well as links to diverse data sources that offer related agricultural, food, health, dietary supplement, and other information. FoodData Central will replace this existing Food Composition Database site in the coming weeks and users will be automatically be redirected to the new web site.
+ <br/><br/>
+    We welcome your <a href="https://fdc.nal.usda.gov/contact.html" style="text-decoration:underline">questions, feedback and comments</a> about the new FoodData Central system.
+</div>
+<h1>Welcome to the USDA Food Composition Databases</h1>
+  
+  	<p>This Web site allows you to search the following USDA Food Composition Databases from one location:
+	<ul>
+    <li>USDA National Nutrient Database for Standard Reference Legacy Release, April 2018</li>
+    <li>USDA Branded Food Products Database</li>
+    </ul>
+   </p>
+   <p>
+You can search the database by food item, food group, or manufacturer's name to find the nutrient information for your food items. You can also generate lists of foods sorted by nutrient content. In addition, data from the following Special Interest Databases will be shown along with the corresponding food items from the USDA National Nutrient Database for Standard Reference:
+<ul>
+     <li >Flavonoids, Release 3.3, March 2018)</li>
+     <li >Isoflavones, Release 2.1, November 2015</li>
+    <li > Proanthocyanidins, Release 2.1, March 2018 </li>
+   </ul>
+  </p>
+
+  <p>
+The <a href="/ndb/beef/show" title="Try the beef calculator">USDA Ground Beef Calculator</a> can also be accessed from the same search page. 
+</p>
+<p class="text-center">
+<a href="/ndb/search/list" link="Search the database"><span class="btn btn-primary btn-large">Start your search here.</span></a>
+</p>
+<p>
+For more information and documentation on the current version of this database, select from "Documentation and Help" on the main navigation bar above. 
+</p>
+<p >
+    <span class="font-italic"><i>The Databases used in this search program are maintained by the <a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/nutrient-data-laboratory/" title="Link to Nutrient Data Laboratory home page">Nutrient Data Laboratory</a>, <a href="https://www.ars.usda.gov/northeast-area/beltsville-md-bhnrc/beltsville-human-nutrition-research-center/" title="Link to Beltsville Human Nutrition Research Center Home Page"> Beltsville Human Nutrition Research Center</a>. The web site was jointly developed by the USDA Nutrient Data Laboratory, and the Food and Nutrition Information Center and Information Systems Division of the National Agricultural Library.</i>
+</p>
+</div>
+
+ </div>
+        <footer>
+         <small>  
+         <div  class="region region-footer" >
+        <section id="block-block-1"  class="block block-block footer clearfix">
+        
+			USDA Food Composition Databases
+			
+		<br/>
+			 <a href="http://www.nal.usda.gov">Software developed by the National Agricultural Library</a> v.3.9.5.3_2019-06-13 
+		 <br/>
+		 <a href="http://www.nal.usda.gov">NAL Home</a> | <a href="http://www.usda.gov" target="_blank">USDA.gov</a> | <a href="http://www.ars.usda.gov" target="_blank">Agricultural Research Service</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navid=PLAIN_WRITING">Plain Language</a> | <a href="http://www.ars.usda.gov/Services/docs.htm?docid=1398" target="_blank">FOIA</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=ACCESSIBILITY_STATEM" target="_blank">Accessibility Statement</a> | <a href="http://www.ars.usda.gov/Main/docs.htm?docid=8040" target="_blank">Information Quality</a> | <a href="http://www.ars.usda.gov/disclaim.html#Privacy" target="_blank">Privacy Policy</a> | <a href="http://www.usda.gov/wps/portal/usda/usdahome?navtype=FT&amp;navid=NON_DISCRIMINATION" target="_blank">Non-Discrimination Statement</a> | <a href="http://www.usa.gov" target="_blank">USA.gov</a> | <a href="http://www.whitehouse.gov" target="_blank">White House</a></p>	 
+		</section>
+		</div>
+		</small>
+		</footer>
+		
+		
+    </body>
+    <div  id="spinner" class="progress" style="display:none;height:100%;">
+	<div class="progress-bar progress-bar-striped active" role="progressbar" style="width:100%;">
+	<span class="sr-only">Updating</span><h4>Updating...</h4>
+	</div>
+    </div>
+</html>

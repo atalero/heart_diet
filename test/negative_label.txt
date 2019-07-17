@@ -16,8 +16,8 @@ Cocoa butter
 whole milk
 sausage
 salt
-coca cola
-sprite
+coca cola bottle
+sprite bottle
 steak
 pork chop
 orange juice
@@ -52,6 +52,6 @@ ice cream
 ketchup
 bbq sauce
 grape juice
-diet coke
-diet sprite
-diet gingerale
+diet coke bottle
+diet sprite bottle
+diet gingerale bottle
